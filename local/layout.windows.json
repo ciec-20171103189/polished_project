@@ -6,10 +6,10 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 802,
-      "y": 86,
+      "x": 528,
+      "y": 39,
       "width": 1034,
-      "height": 1065,
+      "height": 1056,
       "layout": {
         "children": [
           {
@@ -19,7 +19,7 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 472.984375,
+                "height": 468.984375,
                 "type": "panel",
                 "width": 204
               },
@@ -28,12 +28,12 @@
                 "children": [
                   "assets"
                 ],
-                "height": 471,
+                "height": 466,
                 "type": "panel",
                 "width": 204
               }
             ],
-            "height": 946,
+            "height": 937,
             "type": "dock-v",
             "width": 204
           },
@@ -44,9 +44,9 @@
                 "children": [
                   "scene"
                 ],
-                "height": 471,
+                "height": 466,
                 "type": "panel",
-                "width": 505.984375
+                "width": 506
               },
               {
                 "active": 0,
@@ -55,14 +55,14 @@
                   "timeline",
                   "game-window"
                 ],
-                "height": 472.984375,
+                "height": 468.984375,
                 "type": "panel",
-                "width": 505.984375
+                "width": 506
               }
             ],
-            "height": 946,
+            "height": 937,
             "type": "dock-v",
-            "width": 505.984375
+            "width": 506
           },
           {
             "active": 0,
@@ -70,7 +70,7 @@
               "inspector",
               "cocos-services"
             ],
-            "height": 946,
+            "height": 937,
             "type": "panel",
             "width": 304
           }
@@ -101,6 +101,12 @@
       "y": 255,
       "width": 316,
       "height": 519
+    },
+    "package-asset.import": {
+      "x": 727,
+      "y": 240,
+      "width": 470,
+      "height": 575
     }
   }
 }
