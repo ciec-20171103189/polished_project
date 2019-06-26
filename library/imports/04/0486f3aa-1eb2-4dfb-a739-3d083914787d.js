@@ -94,6 +94,10 @@ var Game = cc.Class({
         this.spawnNewStar();
     },
 
+    showAlertText: function showAlertText() {
+        Alert.show("测试版本", null, false);
+    },
+
     spawnNewStar: function spawnNewStar() {
         var newStar = null;
 
