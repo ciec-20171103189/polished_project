@@ -89,7 +89,7 @@ var Game = cc.Class({
     },
 
     showAlertText: function () {
-    	Alert.show("测试版本", null, false);
+    	Alert.show("确定要退出游戏吗？",this.gameOver(), true, 0.1);
     },
     
     spawnNewStar: function() {

@@ -1,66 +1,84 @@
-2019-06-26T07:39:13.091Z - normal: Load ~/.CocosCreator/settings.json
-2019-06-26T07:39:14.243Z - normal: Initializing Asset Database
-2019-06-26T07:39:14.247Z - normal: checking language setting...
-2019-06-26T07:39:14.247Z - normal: Language: zh
-2019-06-26T07:39:15.104Z - success: preview server running at http://localhost:7457
-2019-06-26T07:39:15.107Z - success: protocol editor-framework registered
-2019-06-26T07:39:15.107Z - success: protocol app registered
-2019-06-26T07:39:15.107Z - success: protocol theme registered
-2019-06-26T07:39:15.107Z - success: protocol packages registered
-2019-06-26T07:39:15.108Z - success: protocol uuid registerred
-2019-06-26T07:39:15.108Z - success: protocol db registerred
-2019-06-26T07:39:15.108Z - success: protocol thumbnail registerred
-2019-06-26T07:39:15.108Z - success: protocol unpack registerred
-2019-06-26T07:39:15.108Z - success: protocol disable-commonjs registerred
-2019-06-26T07:39:15.370Z - normal: connected!
-2019-06-26T07:39:15.374Z - normal: Check project D:\雷神加速器\polished_project
-2019-06-26T07:39:15.380Z - normal: Initializing project D:\雷神加速器\polished_project
-2019-06-26T07:39:16.489Z - normal: Initializing Cocos2d
-2019-06-26T07:39:17.794Z - normal: Initializing engine extends
-2019-06-26T07:39:17.822Z - success: asset-db-debugger loaded
-2019-06-26T07:39:17.828Z - success: baidu-adapter loaded
-2019-06-26T07:39:17.832Z - success: color-picker loaded
-2019-06-26T07:39:17.939Z - success: fb-audience-network loaded
-2019-06-26T07:39:18.010Z - success: fb-live-stream loaded
-2019-06-26T07:39:18.018Z - success: google-play-instant loaded
-2019-06-26T07:39:18.030Z - success: huawei-runtime loaded
-2019-06-26T07:39:18.035Z - success: jsb-adapter loaded
-2019-06-26T07:39:18.052Z - success: oppo-runtime loaded
-2019-06-26T07:39:18.061Z - success: package-manager loaded
-2019-06-26T07:39:18.189Z - success: qqplay-adapter loaded
-2019-06-26T07:39:18.191Z - success: runtime-dev-tools loaded
-2019-06-26T07:39:18.196Z - success: sdkbox loaded
-2019-06-26T07:39:18.200Z - success: tester loaded
-2019-06-26T07:39:18.202Z - success: ui-grid loaded
-2019-06-26T07:39:18.205Z - success: ui-kit-preview-extra loaded
-2019-06-26T07:39:18.207Z - success: ui-kit-preview loaded
-2019-06-26T07:39:18.209Z - success: ui-kit loaded
-2019-06-26T07:39:18.212Z - success: ui-tree loaded
-2019-06-26T07:39:18.219Z - success: vivo-runtime loaded
-2019-06-26T07:39:18.220Z - success: weapp-adapter loaded
-2019-06-26T07:39:18.263Z - success: assets loaded
-2019-06-26T07:39:18.265Z - success: builder loaded
-2019-06-26T07:39:18.569Z - success: cocos-services loaded
-2019-06-26T07:39:18.572Z - success: console loaded
-2019-06-26T07:39:18.610Z - success: fb-instant-games loaded
-2019-06-26T07:39:18.614Z - success: game-window loaded
-2019-06-26T07:39:18.616Z - success: google-instant-games loaded
-2019-06-26T07:39:18.620Z - success: hierarchy loaded
-2019-06-26T07:39:18.623Z - success: inspector loaded
-2019-06-26T07:39:18.625Z - success: keystore loaded
-2019-06-26T07:39:18.630Z - success: node-library loaded
-2019-06-26T07:39:18.631Z - success: package-asset loaded
-2019-06-26T07:39:18.632Z - success: preferences loaded
-2019-06-26T07:39:18.634Z - success: project-exporter loaded
-2019-06-26T07:39:18.636Z - success: project-importer loaded
-2019-06-26T07:39:18.638Z - success: project-settings loaded
-2019-06-26T07:39:18.643Z - success: scene loaded
-2019-06-26T07:39:18.644Z - success: simulator-debugger loaded
-2019-06-26T07:39:18.646Z - success: sprite-editor loaded
-2019-06-26T07:39:18.650Z - success: store loaded
-2019-06-26T07:39:18.654Z - success: timeline loaded
-2019-06-26T07:39:20.384Z - info: Cocos Services load base data!
-2019-06-26T07:39:25.143Z - normal: Loading packages
-2019-06-26T07:39:25.151Z - normal: Watching packages
-2019-06-26T07:39:25.619Z - normal: Run Application
-2019-06-26T07:48:25.639Z - info: shutdown preview server
+2019-06-27T07:46:43.373Z - normal: Load ~/.CocosCreator/settings.json
+2019-06-27T07:46:44.597Z - normal: Initializing Asset Database
+2019-06-27T07:46:44.601Z - normal: checking language setting...
+2019-06-27T07:46:44.601Z - normal: Language: zh
+2019-06-27T07:46:47.986Z - success: preview server running at http://localhost:7456
+2019-06-27T07:46:47.992Z - success: protocol editor-framework registered
+2019-06-27T07:46:47.992Z - success: protocol app registered
+2019-06-27T07:46:47.993Z - success: protocol theme registered
+2019-06-27T07:46:47.993Z - success: protocol packages registered
+2019-06-27T07:46:47.993Z - success: protocol uuid registerred
+2019-06-27T07:46:47.993Z - success: protocol db registerred
+2019-06-27T07:46:47.993Z - success: protocol thumbnail registerred
+2019-06-27T07:46:47.993Z - success: protocol unpack registerred
+2019-06-27T07:46:47.993Z - success: protocol disable-commonjs registerred
+2019-06-27T07:46:48.325Z - normal: connected!
+2019-06-27T07:46:48.328Z - normal: Check project D:\雷神加速器\polished_project
+2019-06-27T07:46:48.334Z - normal: Initializing project D:\雷神加速器\polished_project
+2019-06-27T07:46:50.076Z - normal: Initializing Cocos2d
+2019-06-27T07:46:54.145Z - normal: Initializing engine extends
+2019-06-27T07:46:54.229Z - success: asset-db-debugger loaded
+2019-06-27T07:46:54.234Z - success: baidu-adapter loaded
+2019-06-27T07:46:54.237Z - success: color-picker loaded
+2019-06-27T07:46:54.564Z - success: fb-audience-network loaded
+2019-06-27T07:46:54.688Z - success: fb-live-stream loaded
+2019-06-27T07:46:54.693Z - success: google-play-instant loaded
+2019-06-27T07:46:54.730Z - success: huawei-runtime loaded
+2019-06-27T07:46:54.731Z - success: jsb-adapter loaded
+2019-06-27T07:46:54.773Z - success: oppo-runtime loaded
+2019-06-27T07:46:54.777Z - success: package-manager loaded
+2019-06-27T07:46:55.221Z - success: qqplay-adapter loaded
+2019-06-27T07:46:55.223Z - success: runtime-dev-tools loaded
+2019-06-27T07:46:55.236Z - success: sdkbox loaded
+2019-06-27T07:46:55.242Z - success: tester loaded
+2019-06-27T07:46:55.244Z - success: ui-grid loaded
+2019-06-27T07:46:55.247Z - success: ui-kit-preview-extra loaded
+2019-06-27T07:46:55.248Z - success: ui-kit-preview loaded
+2019-06-27T07:46:55.258Z - success: ui-kit loaded
+2019-06-27T07:46:55.260Z - success: ui-tree loaded
+2019-06-27T07:46:55.295Z - success: vivo-runtime loaded
+2019-06-27T07:46:55.296Z - success: weapp-adapter loaded
+2019-06-27T07:46:55.355Z - success: assets loaded
+2019-06-27T07:46:55.358Z - success: builder loaded
+2019-06-27T07:46:55.891Z - success: cocos-services loaded
+2019-06-27T07:46:55.899Z - success: console loaded
+2019-06-27T07:46:55.978Z - success: fb-instant-games loaded
+2019-06-27T07:46:55.986Z - success: game-window loaded
+2019-06-27T07:46:55.989Z - success: google-instant-games loaded
+2019-06-27T07:46:55.999Z - success: hierarchy loaded
+2019-06-27T07:46:56.004Z - success: inspector loaded
+2019-06-27T07:46:56.010Z - success: keystore loaded
+2019-06-27T07:46:56.028Z - success: node-library loaded
+2019-06-27T07:46:56.032Z - success: package-asset loaded
+2019-06-27T07:46:56.036Z - success: preferences loaded
+2019-06-27T07:46:56.041Z - success: project-exporter loaded
+2019-06-27T07:46:56.046Z - success: project-importer loaded
+2019-06-27T07:46:56.050Z - success: project-settings loaded
+2019-06-27T07:46:56.061Z - success: scene loaded
+2019-06-27T07:46:56.071Z - success: simulator-debugger loaded
+2019-06-27T07:46:56.074Z - success: sprite-editor loaded
+2019-06-27T07:46:56.082Z - success: store loaded
+2019-06-27T07:46:56.090Z - success: timeline loaded
+2019-06-27T07:46:58.918Z - info: Cocos Services load base data!
+2019-06-27T07:47:09.226Z - normal: Loading packages
+2019-06-27T07:47:09.233Z - normal: Watching packages
+2019-06-27T07:47:09.801Z - normal: Run Application
+2019-06-27T07:56:29.336Z - failed: [db-task][sync-changes] Failed to import asset D:\雷神加速器\polished_project\assets\scripts\Game.js, message: Compile error: SyntaxError: D:\雷神加速器\polished_project\assets\scripts\Game.js: Unexpected token, expected , (92:36)
+  90 | 
+  91 |     showAlertText: function () {
+> 92 |     	Alert.show("确定要退出游戏吗？",gameOver: function () {
+     |     	                               ^
+  93 |             this.gameOverNode.active = true;
+  94 |             this.player.enabled = false;
+  95 |             this.player.stopMove();
+    at Parser.pp$5.raise (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.expect (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\babylon\lib\index.js:1749:33)
+    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\babylon\lib\index.js:3564:12)
+    at Parser.pp$3.parseSubscripts (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\babylon\lib\index.js:3344:19)
+2019-06-27T08:25:35.476Z - info: shutdown preview server

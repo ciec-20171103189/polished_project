@@ -17,7 +17,7 @@
         "__id__": 2
       }
     ],
-    "_active": true,
+    "_active": false,
     "_level": 0,
     "_components": [],
     "_prefab": null,
@@ -97,7 +97,7 @@
       }
     ],
     "_active": true,
-    "_level": 0,
+    "_level": 1,
     "_components": [
       {
         "__id__": 30
@@ -1142,14 +1142,14 @@
     "_opacity": 255,
     "_color": {
       "__type__": "cc.Color",
-      "r": 252,
-      "g": 0,
-      "b": 0,
+      "r": 245,
+      "g": 60,
+      "b": 2,
       "a": 255
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 94.44,
+      "width": 70,
       "height": 44.44
     },
     "_anchorPoint": {
@@ -1194,8 +1194,8 @@
     "_enabled": true,
     "_materials": [],
     "_useOriginalSize": false,
-    "_string": "Help",
-    "_N$string": "Help",
+    "_string": "Esc",
+    "_N$string": "Esc",
     "_fontSize": 40,
     "_lineHeight": 40,
     "_enableWrapText": true,
