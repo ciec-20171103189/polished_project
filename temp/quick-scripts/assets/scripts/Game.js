@@ -95,7 +95,7 @@ var Game = cc.Class({
     },
 
     showAlertText: function showAlertText() {
-        Alert.show("确定要退出游戏吗？", this.gameOver(), true, 0.1);
+        Alert.show("游戏已经退出", this.gameOver(), false, 0.1);
     },
 
     spawnNewStar: function spawnNewStar() {
